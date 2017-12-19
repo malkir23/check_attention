@@ -4,7 +4,7 @@ import datetime
 import random
 from form1 import *
 from form2 import *
-from real import test_word, next_test
+from type_tests import test_word, next_test
 from PyQt5 import QtCore, QtGui, QtWidgets
 from functools import partial
 import openpyxl
